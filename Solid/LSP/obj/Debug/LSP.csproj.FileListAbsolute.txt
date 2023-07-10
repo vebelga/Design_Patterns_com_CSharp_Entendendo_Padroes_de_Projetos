@@ -1,0 +1,8 @@
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\LSP\bin\Debug\LSP.exe.config
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\LSP\bin\Debug\LSP.exe
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\LSP\bin\Debug\LSP.pdb
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\LSP\obj\Debug\LSP.csproj.AssemblyReference.cache
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\LSP\obj\Debug\LSP.csproj.SuggestedBindingRedirects.cache
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\LSP\obj\Debug\LSP.csproj.CoreCompileInputs.cache
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\LSP\obj\Debug\LSP.exe
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\LSP\obj\Debug\LSP.pdb

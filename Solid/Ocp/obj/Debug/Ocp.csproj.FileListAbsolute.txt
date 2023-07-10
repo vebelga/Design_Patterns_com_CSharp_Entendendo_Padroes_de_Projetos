@@ -1,0 +1,8 @@
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\Ocp\bin\Debug\Ocp.exe.config
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\Ocp\bin\Debug\Ocp.exe
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\Ocp\bin\Debug\Ocp.pdb
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\Ocp\obj\Debug\Ocp.csproj.AssemblyReference.cache
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\Ocp\obj\Debug\Ocp.csproj.SuggestedBindingRedirects.cache
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\Ocp\obj\Debug\Ocp.exe
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\Solid\Ocp\obj\Debug\Ocp.pdb
