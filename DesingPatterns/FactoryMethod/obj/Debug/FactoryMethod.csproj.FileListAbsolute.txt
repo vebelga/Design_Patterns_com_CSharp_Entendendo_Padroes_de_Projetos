@@ -1,0 +1,8 @@
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\DesingPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\DesingPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\DesingPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.SuggestedBindingRedirects.cache
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\projetos\Design Patterns com C# - Entendendo Padrões de Projetos\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
