@@ -1,0 +1,8 @@
+C:\projetos\Design_Patterns_com_CSharp_Entendendo_Padroes_de_Projetos\DesingPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\projetos\Design_Patterns_com_CSharp_Entendendo_Padroes_de_Projetos\DesingPatterns\Bridge\bin\Debug\Bridge.exe
+C:\projetos\Design_Patterns_com_CSharp_Entendendo_Padroes_de_Projetos\DesingPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\projetos\Design_Patterns_com_CSharp_Entendendo_Padroes_de_Projetos\DesingPatterns\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\projetos\Design_Patterns_com_CSharp_Entendendo_Padroes_de_Projetos\DesingPatterns\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+C:\projetos\Design_Patterns_com_CSharp_Entendendo_Padroes_de_Projetos\DesingPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\projetos\Design_Patterns_com_CSharp_Entendendo_Padroes_de_Projetos\DesingPatterns\Bridge\obj\Debug\Bridge.exe
+C:\projetos\Design_Patterns_com_CSharp_Entendendo_Padroes_de_Projetos\DesingPatterns\Bridge\obj\Debug\Bridge.pdb
